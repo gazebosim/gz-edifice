@@ -18,7 +18,7 @@ ign_configure_project(VERSION_SUFFIX pre1)
 
 # all list of edifice packages
 
-ign_find_package(ignition-common3 REQUIRED)
+ign_find_package(ignition-common4 REQUIRED)
 ign_find_package(ignition-fuel_tools6 REQUIRED)
 ign_find_package(ignition-gazebo5 REQUIRED)
 ign_find_package(ignition-gui5 REQUIRED)
