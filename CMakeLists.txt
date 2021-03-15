@@ -31,6 +31,7 @@ ign_find_package(ignition-rendering5 REQUIRED)
 ign_find_package(ignition-sensors5 REQUIRED)
 ign_find_package(ignition-tools REQUIRED)
 ign_find_package(ignition-transport10 REQUIRED)
+ign_find_package(ignition-utils1 REQUIRED)
 ign_find_package(sdformat11 REQUIRED)
 
 install(DIRECTORY gazebodistro DESTINATION ${IGN_DATA_INSTALL_DIR})
